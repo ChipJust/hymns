@@ -1,0 +1,5 @@
+# MuseScore backup files
+.mscbackup/
+
+# Reaper project backup files
+*.rpp-bak
